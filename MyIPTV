@@ -1,4 +1,604 @@
-#EXTM3U
+#EXTM3U 
+#EXTINF: -1 tvg-name="IN | &TV FHD" group-title="INDIA 2 | LIVE ", IN | &TV FHD
+http://topiptv.net:5890/abcd/123456/68461
+#EXTINF: -1 tvg-name="IN | 9X Jhakaas" group-title="INDIA 2 | LIVE ", IN | 9X Jhakaas
+http://topiptv.net:5890/abcd/123456/68462
+#EXTINF: -1 tvg-name="IN | 9XM" group-title="INDIA 2 | LIVE ", IN | 9XM
+http://topiptv.net:5890/abcd/123456/68463
+#EXTINF: -1 tvg-name="IN | 9XM Jalwa" group-title="INDIA 2 | LIVE ", IN | 9XM Jalwa
+http://topiptv.net:5890/abcd/123456/68464
+#EXTINF: -1 tvg-name="IN | 9xTashan" group-title="INDIA 2 | LIVE ", IN | 9xTashan
+http://topiptv.net:5890/abcd/123456/68465
+#EXTINF: -1 tvg-name="IN | B4U Music" group-title="INDIA 2 | LIVE ", IN | B4U Music
+http://topiptv.net:5890/abcd/123456/68466
+#EXTINF: -1 tvg-name="IN | SUN Music" group-title="INDIA 2 | LIVE ", IN | SUN Music
+http://topiptv.net:5890/abcd/123456/68467
+#EXTINF: -1 tvg-name="IN | Musicdia" group-title="INDIA 2 | LIVE ", IN | Musicdia
+http://topiptv.net:5890/abcd/123456/68468
+#EXTINF: -1 tvg-name="IN | B4U Plus" group-title="INDIA 2 | LIVE ", IN | B4U Plus
+http://topiptv.net:5890/abcd/123456/68469
+#EXTINF: -1 tvg-name="IN | MTV" group-title="INDIA 2 | LIVE ", IN | MTV
+http://topiptv.net:5890/abcd/123456/68470
+#EXTINF: -1 tvg-name="IN | &pictures HD" group-title="INDIA 2 | LIVE ", IN | &pictures HD
+http://topiptv.net:5890/abcd/123456/68471
+#EXTINF: -1 tvg-name="IN | And TV HD" group-title="INDIA 2 | LIVE ", IN | And TV HD
+http://topiptv.net:5890/abcd/123456/68472
+#EXTINF: -1 tvg-name="IN | Colors TV HD" group-title="INDIA 2 | LIVE ", IN | Colors TV HD
+http://topiptv.net:5890/abcd/123456/68473
+#EXTINF: -1 tvg-name="IN | Star Plus HD US" group-title="INDIA 2 | LIVE ", IN | Star Plus HD US
+http://topiptv.net:5890/abcd/123456/68474
+#EXTINF: -1 tvg-name="IN | Zing TV" group-title="INDIA 2 | LIVE ", IN | Zing TV
+http://topiptv.net:5890/abcd/123456/68475
+#EXTINF: -1 tvg-name="IN | Zee Studio" group-title="INDIA 2 | LIVE ", IN | Zee Studio
+http://topiptv.net:5890/abcd/123456/68476
+#EXTINF: -1 tvg-name="IN | Star Gold" group-title="INDIA 2 | LIVE ", IN | Star Gold
+http://topiptv.net:5890/abcd/123456/68477
+#EXTINF: -1 tvg-name="IN | Sony Six HD" group-title="INDIA 2 | LIVE ", IN | Sony Six HD
+http://topiptv.net:5890/abcd/123456/68478
+#EXTINF: -1 tvg-name="IN | Sony Pix" group-title="INDIA 2 | LIVE ", IN | Sony Pix
+http://topiptv.net:5890/abcd/123456/68479
+#EXTINF: -1 tvg-name="IN | Sony Pal" group-title="INDIA 2 | LIVE ", IN | Sony Pal
+http://topiptv.net:5890/abcd/123456/68480
+#EXTINF: -1 tvg-name="IN | SetMax2" group-title="INDIA 2 | LIVE ", IN | SetMax2
+http://topiptv.net:5890/abcd/123456/68481
+#EXTINF: -1 tvg-name="IN | Sab TV" group-title="INDIA 2 | LIVE ", IN | Sab TV
+http://topiptv.net:5890/abcd/123456/68482
+#EXTINF: -1 tvg-name="IN | Rishtey" group-title="INDIA 2 | LIVE ", IN | Rishtey
+http://topiptv.net:5890/abcd/123456/68483
+#EXTINF: -1 tvg-name="IN | Set Max UK" group-title="INDIA 2 | LIVE ", IN | Set Max UK
+http://topiptv.net:5890/abcd/123456/68484
+#EXTINF: -1 tvg-name="IN | Sony Sab HD" group-title="INDIA 2 | LIVE ", IN | Sony Sab HD
+http://topiptv.net:5890/abcd/123456/68485
+#EXTINF: -1 tvg-name="IN | Sony UK" group-title="INDIA 2 | LIVE ", IN | Sony UK
+http://topiptv.net:5890/abcd/123456/68486
+#EXTINF: -1 tvg-name="IN | Star Plus UK" group-title="INDIA 2 | LIVE ", IN | Star Plus UK
+http://topiptv.net:5890/abcd/123456/68487
+#EXTINF: -1 tvg-name="IN | UTV Moviester" group-title="INDIA 2 | LIVE ", IN | UTV Moviester
+http://topiptv.net:5890/abcd/123456/68488
+#EXTINF: -1 tvg-name="IN | Colors TV UK" group-title="INDIA 2 | LIVE ", IN | Colors TV UK
+http://topiptv.net:5890/abcd/123456/68489
+#EXTINF: -1 tvg-name="IN | Colors UK" group-title="INDIA 2 | LIVE ", IN | Colors UK
+http://topiptv.net:5890/abcd/123456/68490
+#EXTINF: -1 tvg-name="IN | Rishtey Cine UK" group-title="INDIA 2 | LIVE ", IN | Rishtey Cine UK
+http://topiptv.net:5890/abcd/123456/68491
+#EXTINF: -1 tvg-name="IN | Rishtey UK" group-title="INDIA 2 | LIVE ", IN | Rishtey UK
+http://topiptv.net:5890/abcd/123456/68492
+#EXTINF: -1 tvg-name="IN | Sab TV UK" group-title="INDIA 2 | LIVE ", IN | Sab TV UK
+http://topiptv.net:5890/abcd/123456/68493
+#EXTINF: -1 tvg-name="IN | Sony Max HD UK" group-title="INDIA 2 | LIVE ", IN | Sony Max HD UK
+http://topiptv.net:5890/abcd/123456/68494
+#EXTINF: -1 tvg-name="IN | Sony Sab UK" group-title="INDIA 2 | LIVE ", IN | Sony Sab UK
+http://topiptv.net:5890/abcd/123456/68495
+#EXTINF: -1 tvg-name="IN | Sony TV Asia UK" group-title="INDIA 2 | LIVE ", IN | Sony TV Asia UK
+http://topiptv.net:5890/abcd/123456/68496
+#EXTINF: -1 tvg-name="IN | Sony TV UK" group-title="INDIA 2 | LIVE ", IN | Sony TV UK
+http://topiptv.net:5890/abcd/123456/68497
+#EXTINF: -1 tvg-name="IN | Star Gold UK" group-title="INDIA 2 | LIVE ", IN | Star Gold UK
+http://topiptv.net:5890/abcd/123456/68498
+#EXTINF: -1 tvg-name="IN | Star Life OK UK" group-title="INDIA 2 | LIVE ", IN | Star Life OK UK
+http://topiptv.net:5890/abcd/123456/68499
+#EXTINF: -1 tvg-name="IN | Star Utsav UK" group-title="INDIA 2 | LIVE ", IN | Star Utsav UK
+http://topiptv.net:5890/abcd/123456/68500
+#EXTINF: -1 tvg-name="IN | Zee Cinema HD" group-title="INDIA 2 | LIVE ", IN | Zee Cinema HD
+http://topiptv.net:5890/abcd/123456/68501
+#EXTINF: -1 tvg-name="IN | Zee TV UK" group-title="INDIA 2 | LIVE ", IN | Zee TV UK
+http://topiptv.net:5890/abcd/123456/68502
+#EXTINF: -1 tvg-name="IN | Zing UK" group-title="INDIA 2 | LIVE ", IN | Zing UK
+http://topiptv.net:5890/abcd/123456/68503
+#EXTINF: -1 tvg-name="IN | Zoom UK" group-title="INDIA 2 | LIVE ", IN | Zoom UK
+http://topiptv.net:5890/abcd/123456/68504
+#EXTINF: -1 tvg-name="IN | Sony MIX" group-title="INDIA 2 | LIVE ", IN | Sony MIX
+http://topiptv.net:5890/abcd/123456/68505
+#EXTINF: -1 tvg-name="IN | Movies OK" group-title="INDIA 2 | LIVE ", IN | Movies OK
+http://topiptv.net:5890/abcd/123456/68506
+#EXTINF: -1 tvg-name="IN | LifeOK" group-title="INDIA 2 | LIVE ", IN | LifeOK
+http://topiptv.net:5890/abcd/123456/68507
+#EXTINF: -1 tvg-name="IN | B4U Movies" group-title="INDIA 2 | LIVE ", IN | B4U Movies
+http://topiptv.net:5890/abcd/123456/68508
+#EXTINF: -1 tvg-name="IN | UTV Bindas" group-title="INDIA 2 | LIVE ", IN | UTV Bindas
+http://topiptv.net:5890/abcd/123456/68509
+#EXTINF: -1 tvg-name="IN | HollyWood Classic" group-title="INDIA 2 | LIVE ", IN | HollyWood Classic
+http://topiptv.net:5890/abcd/123456/68510
+#EXTINF: -1 tvg-name="IN | Zee Action" group-title="INDIA 2 | LIVE ", IN | Zee Action
+http://topiptv.net:5890/abcd/123456/68511
+#EXTINF: -1 tvg-name="IN | Zee Anmol" group-title="INDIA 2 | LIVE ", IN | Zee Anmol
+http://topiptv.net:5890/abcd/123456/68512
+#EXTINF: -1 tvg-name="IN | UTV Movies" group-title="INDIA 2 | LIVE ", IN | UTV Movies
+http://topiptv.net:5890/abcd/123456/68513
+#EXTINF: -1 tvg-name="IN | Zee Business" group-title="INDIA 2 | LIVE ", IN | Zee Business
+http://topiptv.net:5890/abcd/123456/68514
+#EXTINF: -1 tvg-name="IN | Zee Living" group-title="INDIA 2 | LIVE ", IN | Zee Living
+http://topiptv.net:5890/abcd/123456/68515
+#EXTINF: -1 tvg-name="IN | Zee Zindagi" group-title="INDIA 2 | LIVE ", IN | Zee Zindagi
+http://topiptv.net:5890/abcd/123456/68516
+#EXTINF: -1 tvg-name="IN | ZeeNews" group-title="INDIA 2 | LIVE ", IN | ZeeNews
+http://topiptv.net:5890/abcd/123456/68517
+#EXTINF: -1 tvg-name="IN | Zee Smile" group-title="INDIA 2 | LIVE ", IN | Zee Smile
+http://topiptv.net:5890/abcd/123456/68518
+#EXTINF: -1 tvg-name="IN | Zee Classic" group-title="INDIA 2 | LIVE ", IN | Zee Classic
+http://topiptv.net:5890/abcd/123456/68519
+#EXTINF: -1 tvg-name="IN | Zee Cinema" group-title="INDIA 2 | LIVE ", IN | Zee Cinema
+http://topiptv.net:5890/abcd/123456/68520
+#EXTINF: -1 tvg-name="IN | Life OK HD" group-title="INDIA 2 | LIVE ", IN | Life OK HD
+http://topiptv.net:5890/abcd/123456/68521
+#EXTINF: -1 tvg-name="IN | Zindagi" group-title="INDIA 2 | LIVE ", IN | Zindagi
+http://topiptv.net:5890/abcd/123456/68522
+#EXTINF: -1 tvg-name="IN | Zoom" group-title="INDIA 2 | LIVE ", IN | Zoom
+http://topiptv.net:5890/abcd/123456/68523
+#EXTINF: -1 tvg-name="IN | Star Plus" group-title="INDIA 2 | LIVE ", IN | Star Plus
+http://topiptv.net:5890/abcd/123456/68524
+#EXTINF: -1 tvg-name="IN | Zee ETC" group-title="INDIA 2 | LIVE ", IN | Zee ETC
+http://topiptv.net:5890/abcd/123456/68525
+#EXTINF: -1 tvg-name="IN | Living Foodz 2" group-title="INDIA 2 | LIVE ", IN | Living Foodz 2
+http://topiptv.net:5890/abcd/123456/68526
+#EXTINF: -1 tvg-name="IN | MH1 Shradha" group-title="INDIA 2 | LIVE ", IN | MH1 Shradha
+http://topiptv.net:5890/abcd/123456/68527
+#EXTINF: -1 tvg-name="IN | News 24" group-title="INDIA 2 | LIVE ", IN | News 24
+http://topiptv.net:5890/abcd/123456/68528
+#EXTINF: -1 tvg-name="IN | Times Now" group-title="INDIA 2 | LIVE ", IN | Times Now
+http://topiptv.net:5890/abcd/123456/68529
+#EXTINF: -1 tvg-name="IN | AAJ TAK UK" group-title="INDIA 2 | LIVE ", IN | AAJ TAK UK
+http://topiptv.net:5890/abcd/123456/68530
+#EXTINF: -1 tvg-name="IN | ABP News UK" group-title="INDIA 2 | LIVE ", IN | ABP News UK
+http://topiptv.net:5890/abcd/123456/68531
+#EXTINF: -1 tvg-name="IN | And TV UK" group-title="INDIA 2 | LIVE ", IN | And TV UK
+http://topiptv.net:5890/abcd/123456/68532
+#EXTINF: -1 tvg-name="IN | NDTV 24x7 UK" group-title="INDIA 2 | LIVE ", IN | NDTV 24x7 UK
+http://topiptv.net:5890/abcd/123456/68533
+#EXTINF: -1 tvg-name="IN | AAJ TAK" group-title="INDIA 2 | LIVE ", IN | AAJ TAK
+http://topiptv.net:5890/abcd/123456/68534
+#EXTINF: -1 tvg-name="IN | India TV" group-title="INDIA 2 | LIVE ", IN | India TV
+http://topiptv.net:5890/abcd/123456/68535
+#EXTINF: -1 tvg-name="IN | NDTVdia" group-title="INDIA 2 | LIVE ", IN | NDTVdia
+http://topiptv.net:5890/abcd/123456/68536
+#EXTINF: -1 tvg-name="IN | Zee News" group-title="INDIA 2 | LIVE ", IN | Zee News
+http://topiptv.net:5890/abcd/123456/68537
+#EXTINF: -1 tvg-name="IN | NDTV GoodTimes" group-title="INDIA 2 | LIVE ", IN | NDTV GoodTimes
+http://topiptv.net:5890/abcd/123456/68538
+#EXTINF: -1 tvg-name="IN | Discovery" group-title="INDIA 2 | LIVE ", IN | Discovery
+http://topiptv.net:5890/abcd/123456/68539
+#EXTINF: -1 tvg-name="IN | IBN 7" group-title="INDIA 2 | LIVE ", IN | IBN 7
+http://topiptv.net:5890/abcd/123456/68540
+#EXTINF: -1 tvg-name="IN | Ten Action" group-title="INDIA 2 | LIVE ", IN | Ten Action
+http://topiptv.net:5890/abcd/123456/68541
+#EXTINF: -1 tvg-name="IN | TEN 1 HD" group-title="INDIA 2 | LIVE ", IN | TEN 1 HD
+http://topiptv.net:5890/abcd/123456/68542
+#EXTINF: -1 tvg-name="IN | Star Sports 1" group-title="INDIA 2 | LIVE ", IN | Star Sports 1
+http://topiptv.net:5890/abcd/123456/68543
+#EXTINF: -1 tvg-name="IN | Star Sports 2" group-title="INDIA 2 | LIVE ", IN | Star Sports 2
+http://topiptv.net:5890/abcd/123456/68544
+#EXTINF: -1 tvg-name="IN | Star Sports 3" group-title="INDIA 2 | LIVE ", IN | Star Sports 3
+http://topiptv.net:5890/abcd/123456/68545
+#EXTINF: -1 tvg-name="IN | Star Sports 4" group-title="INDIA 2 | LIVE ", IN | Star Sports 4
+http://topiptv.net:5890/abcd/123456/68546
+#EXTINF: -1 tvg-name="IN | Eleven Sport Network Asia" group-title="INDIA 2 | LIVE ", IN | Eleven Sport Network Asia
+http://topiptv.net:5890/abcd/123456/68547
+#EXTINF: -1 tvg-name="IN | HBO" group-title="INDIA 2 | LIVE ", IN | HBO
+http://topiptv.net:5890/abcd/123456/68548
+#EXTINF: -1 tvg-name="IN | Sony ESPN" group-title="INDIA 2 | LIVE ", IN | Sony ESPN
+http://topiptv.net:5890/abcd/123456/68549
+#EXTINF: -1 tvg-name="IN | Ten Cricket HD" group-title="INDIA 2 | LIVE ", IN | Ten Cricket HD
+http://topiptv.net:5890/abcd/123456/68550
+#EXTINF: -1 tvg-name="IN | Star Sports 1 HD" group-title="INDIA 2 | LIVE ", IN | Star Sports 1 HD
+http://topiptv.net:5890/abcd/123456/68551
+#EXTINF: -1 tvg-name="IN | Star Sports 2 HD" group-title="INDIA 2 | LIVE ", IN | Star Sports 2 HD
+http://topiptv.net:5890/abcd/123456/68552
+#EXTINF: -1 tvg-name="IN | Star Sports 3 HD" group-title="INDIA 2 | LIVE ", IN | Star Sports 3 HD
+http://topiptv.net:5890/abcd/123456/68553
+#EXTINF: -1 tvg-name="IN | Star Sports 4 HD" group-title="INDIA 2 | LIVE ", IN | Star Sports 4 HD
+http://topiptv.net:5890/abcd/123456/68554
+#EXTINF: -1 tvg-name="IN | TEN Golf HD" group-title="INDIA 2 | LIVE ", IN | TEN Golf HD
+http://topiptv.net:5890/abcd/123456/68555
+#EXTINF: -1 tvg-name="IN | Ten Sports" group-title="INDIA 2 | LIVE ", IN | Ten Sports
+http://topiptv.net:5890/abcd/123456/68556
+#EXTINF: -1 tvg-name="IN | Willow Cricket" group-title="INDIA 2 | LIVE ", IN | Willow Cricket
+http://topiptv.net:5890/abcd/123456/68557
+#EXTINF: -1 tvg-name="IN | Akkal Punjabi" group-title="INDIA 2 | LIVE ", IN | Akkal Punjabi
+http://topiptv.net:5890/abcd/123456/68558
+#EXTINF: -1 tvg-name="IN | Sangat TV Punjabi" group-title="INDIA 2 | LIVE ", IN | Sangat TV Punjabi
+http://topiptv.net:5890/abcd/123456/68559
+#EXTINF: -1 tvg-name="IN | PTC Chak DE Punjabi" group-title="INDIA 2 | LIVE ", IN | PTC Chak DE Punjabi
+http://topiptv.net:5890/abcd/123456/68560
+#EXTINF: -1 tvg-name="IN | PTC News Punjabi" group-title="INDIA 2 | LIVE ", IN | PTC News Punjabi
+http://topiptv.net:5890/abcd/123456/68561
+#EXTINF: -1 tvg-name="IN | PTC Punjabi" group-title="INDIA 2 | LIVE ", IN | PTC Punjabi
+http://topiptv.net:5890/abcd/123456/68562
+#EXTINF: -1 tvg-name="IN | Sikh Channel Punjabi" group-title="INDIA 2 | LIVE ", IN | Sikh Channel Punjabi
+http://topiptv.net:5890/abcd/123456/68563
+#EXTINF: -1 tvg-name="IN | Sanjh TV Punjabi" group-title="INDIA 2 | LIVE ", IN | Sanjh TV Punjabi
+http://topiptv.net:5890/abcd/123456/68564
+#EXTINF: -1 tvg-name="IN | PTC Chakde" group-title="INDIA 2 | LIVE ", IN | PTC Chakde
+http://topiptv.net:5890/abcd/123456/68565
+#EXTINF: -1 tvg-name="IN | Punjab TV Punjabi" group-title="INDIA 2 | LIVE ", IN | Punjab TV Punjabi
+http://topiptv.net:5890/abcd/123456/68566
+#EXTINF: -1 tvg-name="IN | 9X Tashan Punjabi" group-title="INDIA 2 | LIVE ", IN | 9X Tashan Punjabi
+http://topiptv.net:5890/abcd/123456/68567
+#EXTINF: -1 tvg-name="IN | AOne Music Punjabi" group-title="INDIA 2 | LIVE ", IN | AOne Music Punjabi
+http://topiptv.net:5890/abcd/123456/68568
+#EXTINF: -1 tvg-name="IN | AOne Punjabi" group-title="INDIA 2 | LIVE ", IN | AOne Punjabi
+http://topiptv.net:5890/abcd/123456/68569
+#EXTINF: -1 tvg-name="IN | Britasia Punjabi" group-title="INDIA 2 | LIVE ", IN | Britasia Punjabi
+http://topiptv.net:5890/abcd/123456/68570
+#EXTINF: -1 tvg-name="IN | ChakDE TV Punjabi" group-title="INDIA 2 | LIVE ", IN | ChakDE TV Punjabi
+http://topiptv.net:5890/abcd/123456/68571
+#EXTINF: -1 tvg-name="IN | Chardiala Time TV Punjabi" group-title="INDIA 2 | LIVE ", IN | Chardiala Time TV Punjabi
+http://topiptv.net:5890/abcd/123456/68572
+#EXTINF: -1 tvg-name="IN | Desi Channel Punjabi" group-title="INDIA 2 | LIVE ", IN | Desi Channel Punjabi
+http://topiptv.net:5890/abcd/123456/68573
+#EXTINF: -1 tvg-name="IN | ETC Punjabi" group-title="INDIA 2 | LIVE ", IN | ETC Punjabi
+http://topiptv.net:5890/abcd/123456/68574
+#EXTINF: -1 tvg-name="IN | Jus One TV Punjabi" group-title="INDIA 2 | LIVE ", IN | Jus One TV Punjabi
+http://topiptv.net:5890/abcd/123456/68575
+#EXTINF: -1 tvg-name="IN | JUS Punjabi" group-title="INDIA 2 | LIVE ", IN | JUS Punjabi
+http://topiptv.net:5890/abcd/123456/68576
+#EXTINF: -1 tvg-name="IN | MH1 News Punjabi" group-title="INDIA 2 | LIVE ", IN | MH1 News Punjabi
+http://topiptv.net:5890/abcd/123456/68577
+#EXTINF: -1 tvg-name="IN | MH1 Punjabi" group-title="INDIA 2 | LIVE ", IN | MH1 Punjabi
+http://topiptv.net:5890/abcd/123456/68578
+#EXTINF: -1 tvg-name="IN | MH1 SHARDDHA Punjabi" group-title="INDIA 2 | LIVE ", IN | MH1 SHARDDHA Punjabi
+http://topiptv.net:5890/abcd/123456/68579
+#EXTINF: -1 tvg-name="IN | PBN Music Punjabi" group-title="INDIA 2 | LIVE ", IN | PBN Music Punjabi
+http://topiptv.net:5890/abcd/123456/68580
+#EXTINF: -1 tvg-name="IN | Zee Punjabi Haryana TV Punjabi" group-title="INDIA 2 | LIVE ", IN | Zee Punjabi Haryana TV Punjabi
+http://topiptv.net:5890/abcd/123456/68581
+#EXTINF: -1 tvg-name="IN | Zee Punjabi" group-title="INDIA 2 | LIVE ", IN | Zee Punjabi
+http://topiptv.net:5890/abcd/123456/68582
+#EXTINF: -1 tvg-name="IN | ChakDE" group-title="INDIA 2 | LIVE ", IN | ChakDE
+http://topiptv.net:5890/abcd/123456/68583
+#EXTINF: -1 tvg-name="IN | Dabang TV" group-title="INDIA 2 | LIVE ", IN | Dabang TV
+http://topiptv.net:5890/abcd/123456/68584
+#EXTINF: -1 tvg-name="IN | DD Punjabi" group-title="INDIA 2 | LIVE ", IN | DD Punjabi
+http://topiptv.net:5890/abcd/123456/68585
+#EXTINF: -1 tvg-name="IN | Desi TV" group-title="INDIA 2 | LIVE ", IN | Desi TV
+http://topiptv.net:5890/abcd/123456/68586
+#EXTINF: -1 tvg-name="IN | PBN Music" group-title="INDIA 2 | LIVE ", IN | PBN Music
+http://topiptv.net:5890/abcd/123456/68587
+#EXTINF: -1 tvg-name="IN | MH1 Music" group-title="INDIA 2 | LIVE ", IN | MH1 Music
+http://topiptv.net:5890/abcd/123456/68588
+#EXTINF: -1 tvg-name="IN | Media Punjab" group-title="INDIA 2 | LIVE ", IN | Media Punjab
+http://topiptv.net:5890/abcd/123456/68589
+#EXTINF: -1 tvg-name="IN | Manoranjan TV" group-title="INDIA 2 | LIVE ", IN | Manoranjan TV
+http://topiptv.net:5890/abcd/123456/68590
+#EXTINF: -1 tvg-name="IN | ARY Digital UK" group-title="INDIA 2 | LIVE ", IN | ARY Digital UK
+http://topiptv.net:5890/abcd/123456/68591
+#EXTINF: -1 tvg-name="IN | Britasia TV UK" group-title="INDIA 2 | LIVE ", IN | Britasia TV UK
+http://topiptv.net:5890/abcd/123456/68592
+#EXTINF: -1 tvg-name="IN | GEO News UK" group-title="INDIA 2 | LIVE ", IN | GEO News UK
+http://topiptv.net:5890/abcd/123456/68593
+#EXTINF: -1 tvg-name="IN | GEO TEZ UK" group-title="INDIA 2 | LIVE ", IN | GEO TEZ UK
+http://topiptv.net:5890/abcd/123456/68594
+#EXTINF: -1 tvg-name="IN | GEO TV UK" group-title="INDIA 2 | LIVE ", IN | GEO TV UK
+http://topiptv.net:5890/abcd/123456/68595
+#EXTINF: -1 tvg-name="IN | HUM Europe UK" group-title="INDIA 2 | LIVE ", IN | HUM Europe UK
+http://topiptv.net:5890/abcd/123456/68596
+#EXTINF: -1 tvg-name="IN | Noor TV UK" group-title="INDIA 2 | LIVE ", IN | Noor TV UK
+http://topiptv.net:5890/abcd/123456/68597
+#EXTINF: -1 tvg-name="IN | Takbeer TV UK" group-title="INDIA 2 | LIVE ", IN | Takbeer TV UK
+http://topiptv.net:5890/abcd/123456/68598
+#EXTINF: -1 tvg-name="IN | Aakash Bangla" group-title="INDIA 2 | LIVE ", IN | Aakash Bangla
+http://topiptv.net:5890/abcd/123456/68599
+#EXTINF: -1 tvg-name="IN | Aamar Bangla" group-title="INDIA 2 | LIVE ", IN | Aamar Bangla
+http://topiptv.net:5890/abcd/123456/68600
+#EXTINF: -1 tvg-name="IN | ABP Ananda Bangla" group-title="INDIA 2 | LIVE ", IN | ABP Ananda Bangla
+http://topiptv.net:5890/abcd/123456/68601
+#EXTINF: -1 tvg-name="IN | Asian TV Bangla" group-title="INDIA 2 | LIVE ", IN | Asian TV Bangla
+http://topiptv.net:5890/abcd/123456/68602
+#EXTINF: -1 tvg-name="IN | ATN Bangla" group-title="INDIA 2 | LIVE ", IN | ATN Bangla
+http://topiptv.net:5890/abcd/123456/68603
+#EXTINF: -1 tvg-name="IN | ATN Music TV Bangla" group-title="INDIA 2 | LIVE ", IN | ATN Music TV Bangla
+http://topiptv.net:5890/abcd/123456/68604
+#EXTINF: -1 tvg-name="IN | ATN News Bangla" group-title="INDIA 2 | LIVE ", IN | ATN News Bangla
+http://topiptv.net:5890/abcd/123456/68605
+#EXTINF: -1 tvg-name="IN | ATN UK Bangla" group-title="INDIA 2 | LIVE ", IN | ATN UK Bangla
+http://topiptv.net:5890/abcd/123456/68606
+#EXTINF: -1 tvg-name="IN | Bangla Vision Bangla" group-title="INDIA 2 | LIVE ", IN | Bangla Vision Bangla
+http://topiptv.net:5890/abcd/123456/68607
+#EXTINF: -1 tvg-name="IN | Bijoy Bangla" group-title="INDIA 2 | LIVE ", IN | Bijoy Bangla
+http://topiptv.net:5890/abcd/123456/68608
+#EXTINF: -1 tvg-name="IN | Boishakhi Bangla" group-title="INDIA 2 | LIVE ", IN | Boishakhi Bangla
+http://topiptv.net:5890/abcd/123456/68609
+#EXTINF: -1 tvg-name="IN | BTV Bangla" group-title="INDIA 2 | LIVE ", IN | BTV Bangla
+http://topiptv.net:5890/abcd/123456/68610
+#EXTINF: -1 tvg-name="IN | BTV World Bangla" group-title="INDIA 2 | LIVE ", IN | BTV World Bangla
+http://topiptv.net:5890/abcd/123456/68611
+#EXTINF: -1 tvg-name="IN | Channel 24 Bangla" group-title="INDIA 2 | LIVE ", IN | Channel 24 Bangla
+http://topiptv.net:5890/abcd/123456/68612
+#EXTINF: -1 tvg-name="IN | Channel 9 Bangla" group-title="INDIA 2 | LIVE ", IN | Channel 9 Bangla
+http://topiptv.net:5890/abcd/123456/68613
+#EXTINF: -1 tvg-name="IN | Channel 99 Bangla" group-title="INDIA 2 | LIVE ", IN | Channel 99 Bangla
+http://topiptv.net:5890/abcd/123456/68614
+#EXTINF: -1 tvg-name="IN | Channel I EU Bangla" group-title="INDIA 2 | LIVE ", IN | Channel I EU Bangla
+http://topiptv.net:5890/abcd/123456/68615
+#EXTINF: -1 tvg-name="IN | Channel S Bangla" group-title="INDIA 2 | LIVE ", IN | Channel S Bangla
+http://topiptv.net:5890/abcd/123456/68616
+#EXTINF: -1 tvg-name="IN | Channel I Bangla" group-title="INDIA 2 | LIVE ", IN | Channel I Bangla
+http://topiptv.net:5890/abcd/123456/68617
+#EXTINF: -1 tvg-name="IN | Colors+ Bangla" group-title="INDIA 2 | LIVE ", IN | Colors+ Bangla
+http://topiptv.net:5890/abcd/123456/68618
+#EXTINF: -1 tvg-name="IN | DBC News Bangla" group-title="INDIA 2 | LIVE ", IN | DBC News Bangla
+http://topiptv.net:5890/abcd/123456/68619
+#EXTINF: -1 tvg-name="IN | DD Bangla" group-title="INDIA 2 | LIVE ", IN | DD Bangla
+http://topiptv.net:5890/abcd/123456/68620
+#EXTINF: -1 tvg-name="IN | Deepto HD Bangla" group-title="INDIA 2 | LIVE ", IN | Deepto HD Bangla
+http://topiptv.net:5890/abcd/123456/68621
+#EXTINF: -1 tvg-name="IN | Deshe Bideshe TV Bangla" group-title="INDIA 2 | LIVE ", IN | Deshe Bideshe TV Bangla
+http://topiptv.net:5890/abcd/123456/68622
+#EXTINF: -1 tvg-name="IN | Deshi TV Bangla" group-title="INDIA 2 | LIVE ", IN | Deshi TV Bangla
+http://topiptv.net:5890/abcd/123456/68623
+#EXTINF: -1 tvg-name="IN | DeshTV Bangla" group-title="INDIA 2 | LIVE ", IN | DeshTV Bangla
+http://topiptv.net:5890/abcd/123456/68624
+#EXTINF: -1 tvg-name="IN | Dhoom Music Bangla" group-title="INDIA 2 | LIVE ", IN | Dhoom Music Bangla
+http://topiptv.net:5890/abcd/123456/68625
+#EXTINF: -1 tvg-name="IN | Dhoom Music Bangla HD" group-title="INDIA 2 | LIVE ", IN | Dhoom Music Bangla HD
+http://topiptv.net:5890/abcd/123456/68626
+#EXTINF: -1 tvg-name="IN | Ekatoor TV Bangla" group-title="INDIA 2 | LIVE ", IN | Ekatoor TV Bangla
+http://topiptv.net:5890/abcd/123456/68627
+#EXTINF: -1 tvg-name="IN | ETV Bangla" group-title="INDIA 2 | LIVE ", IN | ETV Bangla
+http://topiptv.net:5890/abcd/123456/68628
+#EXTINF: -1 tvg-name="IN | G TV Bangla" group-title="INDIA 2 | LIVE ", IN | G TV Bangla
+http://topiptv.net:5890/abcd/123456/68629
+#EXTINF: -1 tvg-name="IN | Gaan Bangla" group-title="INDIA 2 | LIVE ", IN | Gaan Bangla
+http://topiptv.net:5890/abcd/123456/68630
+#EXTINF: -1 tvg-name="IN | Independent Bangla" group-title="INDIA 2 | LIVE ", IN | Independent Bangla
+http://topiptv.net:5890/abcd/123456/68631
+#EXTINF: -1 tvg-name="IN | iTV Bangla" group-title="INDIA 2 | LIVE ", IN | iTV Bangla
+http://topiptv.net:5890/abcd/123456/68632
+#EXTINF: -1 tvg-name="IN | Jamuna TV Bangla" group-title="INDIA 2 | LIVE ", IN | Jamuna TV Bangla
+http://topiptv.net:5890/abcd/123456/68633
+#EXTINF: -1 tvg-name="IN | Maasaranga Bangla" group-title="INDIA 2 | LIVE ", IN | Maasaranga Bangla
+http://topiptv.net:5890/abcd/123456/68634
+#EXTINF: -1 tvg-name="IN | Masranga TV Bangla" group-title="INDIA 2 | LIVE ", IN | Masranga TV Bangla
+http://topiptv.net:5890/abcd/123456/68635
+#EXTINF: -1 tvg-name="IN | Millennium TV Bangla" group-title="INDIA 2 | LIVE ", IN | Millennium TV Bangla
+http://topiptv.net:5890/abcd/123456/68636
+#EXTINF: -1 tvg-name="IN | Mohana Bangla" group-title="INDIA 2 | LIVE ", IN | Mohana Bangla
+http://topiptv.net:5890/abcd/123456/68637
+#EXTINF: -1 tvg-name="IN | Movie Bangla" group-title="INDIA 2 | LIVE ", IN | Movie Bangla
+http://topiptv.net:5890/abcd/123456/68638
+#EXTINF: -1 tvg-name="IN | Music Bangla" group-title="INDIA 2 | LIVE ", IN | Music Bangla
+http://topiptv.net:5890/abcd/123456/68639
+#EXTINF: -1 tvg-name="IN | MyTV Bangla" group-title="INDIA 2 | LIVE ", IN | MyTV Bangla
+http://topiptv.net:5890/abcd/123456/68640
+#EXTINF: -1 tvg-name="IN | News 24 HD Bangla" group-title="INDIA 2 | LIVE ", IN | News 24 HD Bangla
+http://topiptv.net:5890/abcd/123456/68641
+#EXTINF: -1 tvg-name="IN | NRB TV Bangla" group-title="INDIA 2 | LIVE ", IN | NRB TV Bangla
+http://topiptv.net:5890/abcd/123456/68642
+#EXTINF: -1 tvg-name="IN | NTV Bangla" group-title="INDIA 2 | LIVE ", IN | NTV Bangla
+http://topiptv.net:5890/abcd/123456/68643
+#EXTINF: -1 tvg-name="IN | NTV UK Bangla" group-title="INDIA 2 | LIVE ", IN | NTV UK Bangla
+http://topiptv.net:5890/abcd/123456/68644
+#EXTINF: -1 tvg-name="IN | Probashi Bangla" group-title="INDIA 2 | LIVE ", IN | Probashi Bangla
+http://topiptv.net:5890/abcd/123456/68645
+#EXTINF: -1 tvg-name="IN | R Plus News Bangla" group-title="INDIA 2 | LIVE ", IN | R Plus News Bangla
+http://topiptv.net:5890/abcd/123456/68646
+#EXTINF: -1 tvg-name="IN | RTV Bangla" group-title="INDIA 2 | LIVE ", IN | RTV Bangla
+http://topiptv.net:5890/abcd/123456/68647
+#EXTINF: -1 tvg-name="IN | Ruposhi Bangla" group-title="INDIA 2 | LIVE ", IN | Ruposhi Bangla
+http://topiptv.net:5890/abcd/123456/68648
+#EXTINF: -1 tvg-name="IN | Sangeet Bangla" group-title="INDIA 2 | LIVE ", IN | Sangeet Bangla
+http://topiptv.net:5890/abcd/123456/68649
+#EXTINF: -1 tvg-name="IN | SATV Bangla" group-title="INDIA 2 | LIVE ", IN | SATV Bangla
+http://topiptv.net:5890/abcd/123456/68650
+#EXTINF: -1 tvg-name="IN | SK Movies Bangla" group-title="INDIA 2 | LIVE ", IN | SK Movies Bangla
+http://topiptv.net:5890/abcd/123456/68651
+#EXTINF: -1 tvg-name="IN | SKTV Bangla" group-title="INDIA 2 | LIVE ", IN | SKTV Bangla
+http://topiptv.net:5890/abcd/123456/68652
+#EXTINF: -1 tvg-name="IN | Somoy Bangla" group-title="INDIA 2 | LIVE ", IN | Somoy Bangla
+http://topiptv.net:5890/abcd/123456/68653
+#EXTINF: -1 tvg-name="IN | Star Jalsa Bangla" group-title="INDIA 2 | LIVE ", IN | Star Jalsa Bangla
+http://topiptv.net:5890/abcd/123456/68654
+#EXTINF: -1 tvg-name="IN | Star Jhalsa Movies Bangla" group-title="INDIA 2 | LIVE ", IN | Star Jhalsa Movies Bangla
+http://topiptv.net:5890/abcd/123456/68655
+#EXTINF: -1 tvg-name="IN | Tarang Music" group-title="INDIA 2 | LIVE ", IN | Tarang Music
+http://topiptv.net:5890/abcd/123456/68656
+#EXTINF: -1 tvg-name="IN | Time Television Bangla" group-title="INDIA 2 | LIVE ", IN | Time Television Bangla
+http://topiptv.net:5890/abcd/123456/68657
+#EXTINF: -1 tvg-name="IN | TV UK Bangla" group-title="INDIA 2 | LIVE ", IN | TV UK Bangla
+http://topiptv.net:5890/abcd/123456/68658
+#EXTINF: -1 tvg-name="IN | Zee Bangla Cinema" group-title="INDIA 2 | LIVE ", IN | Zee Bangla Cinema
+http://topiptv.net:5890/abcd/123456/68659
+#EXTINF: -1 tvg-name="IN | Star Jalsha" group-title="INDIA 2 | LIVE ", IN | Star Jalsha
+http://topiptv.net:5890/abcd/123456/68660
+#EXTINF: -1 tvg-name="IN | Zee Bangla" group-title="INDIA 2 | LIVE ", IN | Zee Bangla
+http://topiptv.net:5890/abcd/123456/68661
+#EXTINF: -1 tvg-name="IN | Teleugu ETV UK" group-title="INDIA 2 | LIVE ", IN | Teleugu ETV UK
+http://topiptv.net:5890/abcd/123456/68662
+#EXTINF: -1 tvg-name="IN | Teleugu Maa Movies UK" group-title="INDIA 2 | LIVE ", IN | Teleugu Maa Movies UK
+http://topiptv.net:5890/abcd/123456/68663
+#EXTINF: -1 tvg-name="IN | Teleugu Maa TV UK" group-title="INDIA 2 | LIVE ", IN | Teleugu Maa TV UK
+http://topiptv.net:5890/abcd/123456/68664
+#EXTINF: -1 tvg-name="IN | JAI Telangana" group-title="INDIA 2 | LIVE ", IN | JAI Telangana
+http://topiptv.net:5890/abcd/123456/68665
+#EXTINF: -1 tvg-name="IN | Jaya Max UK" group-title="INDIA 2 | LIVE ", IN | Jaya Max UK
+http://topiptv.net:5890/abcd/123456/68666
+#EXTINF: -1 tvg-name="IN | Jaya Movie UK" group-title="INDIA 2 | LIVE ", IN | Jaya Movie UK
+http://topiptv.net:5890/abcd/123456/68667
+#EXTINF: -1 tvg-name="IN | Jaya TV UK" group-title="INDIA 2 | LIVE ", IN | Jaya TV UK
+http://topiptv.net:5890/abcd/123456/68668
+#EXTINF: -1 tvg-name="IN | Kairali" group-title="INDIA 2 | LIVE ", IN | Kairali
+http://topiptv.net:5890/abcd/123456/68669
+#EXTINF: -1 tvg-name="IN | Zee Marathi" group-title="INDIA 2 | LIVE ", IN | Zee Marathi
+http://topiptv.net:5890/abcd/123456/68670
+#EXTINF: -1 tvg-name="IN | Zee Marathi HD" group-title="INDIA 2 | LIVE ", IN | Zee Marathi HD
+http://topiptv.net:5890/abcd/123456/68671
+#EXTINF: -1 tvg-name="IN | Zee Telugu Ditto" group-title="INDIA 2 | LIVE ", IN | Zee Telugu Ditto
+http://topiptv.net:5890/abcd/123456/68672
+#EXTINF: -1 tvg-name="IN | AsiaNet" group-title="INDIA 2 | LIVE ", IN | AsiaNet
+http://topiptv.net:5890/abcd/123456/68673
+#EXTINF: -1 tvg-name="IN | Star Vijay" group-title="INDIA 2 | LIVE ", IN | Star Vijay
+http://topiptv.net:5890/abcd/123456/68674
+#EXTINF: -1 tvg-name="IN | Star Movies Action" group-title="INDIA 2 | LIVE ", IN | Star Movies Action
+http://topiptv.net:5890/abcd/123456/68675
+#EXTINF: -1 tvg-name="IN | Dillagi Amrita" group-title="INDIA 2 | LIVE ", IN | Dillagi Amrita
+http://topiptv.net:5890/abcd/123456/68676
+#EXTINF: -1 tvg-name="IN | Colors Gujrati" group-title="INDIA 2 | LIVE ", IN | Colors Gujrati
+http://topiptv.net:5890/abcd/123456/68677
+#EXTINF: -1 tvg-name="IN | AsiaNet Plus" group-title="INDIA 2 | LIVE ", IN | AsiaNet Plus
+http://topiptv.net:5890/abcd/123456/68678
+#EXTINF: -1 tvg-name="IN | Kannada Colors UK" group-title="INDIA 2 | LIVE ", IN | Kannada Colors UK
+http://topiptv.net:5890/abcd/123456/68679
+#EXTINF: -1 tvg-name="IN | Mala Asianet UK" group-title="INDIA 2 | LIVE ", IN | Mala Asianet UK
+http://topiptv.net:5890/abcd/123456/68680
+#EXTINF: -1 tvg-name="IN | Maa Gold" group-title="INDIA 2 | LIVE ", IN | Maa Gold
+http://topiptv.net:5890/abcd/123456/68681
+#EXTINF: -1 tvg-name="IN | Janam TV 2" group-title="INDIA 2 | LIVE ", IN | Janam TV 2
+http://topiptv.net:5890/abcd/123456/68682
+#EXTINF: -1 tvg-name="IN | Gemini Movies" group-title="INDIA 2 | LIVE ", IN | Gemini Movies
+http://topiptv.net:5890/abcd/123456/68683
+#EXTINF: -1 tvg-name="IN | Polimer TV" group-title="INDIA 2 | LIVE ", IN | Polimer TV
+http://topiptv.net:5890/abcd/123456/68684
+#EXTINF: -1 tvg-name="IN | Deva TV HD" group-title="INDIA 2 | LIVE ", IN | Deva TV HD
+http://topiptv.net:5890/abcd/123456/68685
+#EXTINF: -1 tvg-name="IN | Jaya Movies HD" group-title="INDIA 2 | LIVE ", IN | Jaya Movies HD
+http://topiptv.net:5890/abcd/123456/68686
+#EXTINF: -1 tvg-name="IN | Zee Talkies" group-title="INDIA 2 | LIVE ", IN | Zee Talkies
+http://topiptv.net:5890/abcd/123456/68687
+#EXTINF: -1 tvg-name="IN | Zee TV HD US" group-title="INDIA 2 | LIVE ", IN | Zee TV HD US
+http://topiptv.net:5890/abcd/123456/68688
+#EXTINF: -1 tvg-name="IN | Zee TV" group-title="INDIA 2 | LIVE ", IN | Zee TV
+http://topiptv.net:5890/abcd/123456/68689
+#EXTINF: -1 tvg-name="IN | Zee Tamil" group-title="INDIA 2 | LIVE ", IN | Zee Tamil
+http://topiptv.net:5890/abcd/123456/68690
+#EXTINF: -1 tvg-name="IN | Sun TV HD" group-title="INDIA 2 | LIVE ", IN | Sun TV HD
+http://topiptv.net:5890/abcd/123456/68691
+#EXTINF: -1 tvg-name="IN | Star Plus HD" group-title="INDIA 2 | LIVE ", IN | Star Plus HD
+http://topiptv.net:5890/abcd/123456/68692
+#EXTINF: -1 tvg-name="IN | Star Gold HD" group-title="INDIA 2 | LIVE ", IN | Star Gold HD
+http://topiptv.net:5890/abcd/123456/68693
+#EXTINF: -1 tvg-name="IN | Star Movies HD" group-title="INDIA 2 | LIVE ", IN | Star Movies HD
+http://topiptv.net:5890/abcd/123456/68694
+#EXTINF: -1 tvg-name="IN | Sony TV HD" group-title="INDIA 2 | LIVE ", IN | Sony TV HD
+http://topiptv.net:5890/abcd/123456/68695
+#EXTINF: -1 tvg-name="IN | Jaya Movies" group-title="INDIA 2 | LIVE ", IN | Jaya Movies
+http://topiptv.net:5890/abcd/123456/68696
+#EXTINF: -1 tvg-name="IN | Zee Studio HD" group-title="INDIA 2 | LIVE ", IN | Zee Studio HD
+http://topiptv.net:5890/abcd/123456/68697
+#EXTINF: -1 tvg-name="IN | Bindass Play" group-title="INDIA 2 | LIVE ", IN | Bindass Play
+http://topiptv.net:5890/abcd/123456/68698
+#EXTINF: -1 tvg-name="IN | Chithiram TV" group-title="INDIA 2 | LIVE ", IN | Chithiram TV
+http://topiptv.net:5890/abcd/123456/68699
+#EXTINF: -1 tvg-name="IN | Gemini Movies 1" group-title="INDIA 2 | LIVE ", IN | Gemini Movies 1
+http://topiptv.net:5890/abcd/123456/68700
+#EXTINF: -1 tvg-name="IN | Gemini Movies 2" group-title="INDIA 2 | LIVE ", IN | Gemini Movies 2
+http://topiptv.net:5890/abcd/123456/68701
+#EXTINF: -1 tvg-name="IN | Gemini TV" group-title="INDIA 2 | LIVE ", IN | Gemini TV
+http://topiptv.net:5890/abcd/123456/68702
+#EXTINF: -1 tvg-name="IN | Kiran TV" group-title="INDIA 2 | LIVE ", IN | Kiran TV
+http://topiptv.net:5890/abcd/123456/68703
+#EXTINF: -1 tvg-name="IN | KTV USA" group-title="INDIA 2 | LIVE ", IN | KTV USA
+http://topiptv.net:5890/abcd/123456/68704
+#EXTINF: -1 tvg-name="IN | Star Pravah" group-title="INDIA 2 | LIVE ", IN | Star Pravah
+http://topiptv.net:5890/abcd/123456/68705
+#EXTINF: -1 tvg-name="IN | Jaya Max 2" group-title="INDIA 2 | LIVE ", IN | Jaya Max 2
+http://topiptv.net:5890/abcd/123456/68706
+#EXTINF: -1 tvg-name="IN | Jaya Plus" group-title="INDIA 2 | LIVE ", IN | Jaya Plus
+http://topiptv.net:5890/abcd/123456/68707
+#EXTINF: -1 tvg-name="IN | Jaya TV USA" group-title="INDIA 2 | LIVE ", IN | Jaya TV USA
+http://topiptv.net:5890/abcd/123456/68708
+#EXTINF: -1 tvg-name="IN | Puthiya" group-title="INDIA 2 | LIVE ", IN | Puthiya
+http://topiptv.net:5890/abcd/123456/68709
+#EXTINF: -1 tvg-name="IN | RAJ Digital Plus" group-title="INDIA 2 | LIVE ", IN | RAJ Digital Plus
+http://topiptv.net:5890/abcd/123456/68710
+#EXTINF: -1 tvg-name="IN | RAJ Musix" group-title="INDIA 2 | LIVE ", IN | RAJ Musix
+http://topiptv.net:5890/abcd/123456/68711
+#EXTINF: -1 tvg-name="IN | RAJ TV" group-title="INDIA 2 | LIVE ", IN | RAJ TV
+http://topiptv.net:5890/abcd/123456/68712
+#EXTINF: -1 tvg-name="IN | Raj Digital Plus UK" group-title="INDIA 2 | LIVE ", IN | Raj Digital Plus UK
+http://topiptv.net:5890/abcd/123456/68713
+#EXTINF: -1 tvg-name="IN | Raj TV UK" group-title="INDIA 2 | LIVE ", IN | Raj TV UK
+http://topiptv.net:5890/abcd/123456/68714
+#EXTINF: -1 tvg-name="IN | Sonic Nickelodeon" group-title="INDIA 2 | LIVE ", IN | Sonic Nickelodeon
+http://topiptv.net:5890/abcd/123456/68715
+#EXTINF: -1 tvg-name="IN | Santhora TV" group-title="INDIA 2 | LIVE ", IN | Santhora TV
+http://topiptv.net:5890/abcd/123456/68716
+#EXTINF: -1 tvg-name="IN | Food Food" group-title="INDIA 2 | LIVE ", IN | Food Food
+http://topiptv.net:5890/abcd/123456/68717
+#EXTINF: -1 tvg-name="IN | Housefull Action" group-title="INDIA 2 | LIVE ", IN | Housefull Action
+http://topiptv.net:5890/abcd/123456/68718
+#EXTINF: -1 tvg-name="IN | Nickelodeon" group-title="INDIA 2 | LIVE ", IN | Nickelodeon
+http://topiptv.net:5890/abcd/123456/68719
+#EXTINF: -1 tvg-name="IN | Pogo TV" group-title="INDIA 2 | LIVE ", IN | Pogo TV
+http://topiptv.net:5890/abcd/123456/68720
+#EXTINF: -1 tvg-name="IN | Manoranjan Movies" group-title="INDIA 2 | LIVE ", IN | Manoranjan Movies
+http://topiptv.net:5890/abcd/123456/68721
+#EXTINF: -1 tvg-name="IN | Nick Jr" group-title="INDIA 2 | LIVE ", IN | Nick Jr
+http://topiptv.net:5890/abcd/123456/68722
+#EXTINF: -1 tvg-name="IN | Akaal Channel Punjabi" group-title="INDIA 2 | LIVE ", IN | Akaal Channel Punjabi
+http://topiptv.net:5890/abcd/123456/68723
+#EXTINF: -1 tvg-name="IN | Sangat UK" group-title="INDIA 2 | LIVE ", IN | Sangat UK
+http://topiptv.net:5890/abcd/123456/68724
+#EXTINF: -1 tvg-name="IN | Sony SAB FHD" group-title="INDIA 2 | LIVE ", IN | Sony SAB FHD
+http://topiptv.net:5890/abcd/123456/68725
+#EXTINF: -1 tvg-name="IN | Sony HD" group-title="INDIA 2 | LIVE ", IN | Sony HD
+http://topiptv.net:5890/abcd/123456/68726
+#EXTINF: -1 tvg-name="IN | Zee Cinema FHD" group-title="INDIA 2 | LIVE ", IN | Zee Cinema FHD
+http://topiptv.net:5890/abcd/123456/68727
+#EXTINF: -1 tvg-name="IN | Zee TV HD" group-title="INDIA 2 | LIVE ", IN | Zee TV HD
+http://topiptv.net:5890/abcd/123456/68728
+#EXTINF: -1 tvg-name="IN | Sony Rox HD" group-title="INDIA 2 | LIVE ", IN | Sony Rox HD
+http://topiptv.net:5890/abcd/123456/68729
+#EXTINF: -1 tvg-name="IN | Zee TV FHD" group-title="INDIA 2 | LIVE ", IN | Zee TV FHD
+http://topiptv.net:5890/abcd/123456/68730
+#EXTINF: -1 tvg-name="IN | Sony Max HD" group-title="INDIA 2 | LIVE ", IN | Sony Max HD
+http://topiptv.net:5890/abcd/123456/68731
+#EXTINF: -1 tvg-name="IN | Animal Planet HD" group-title="INDIA 2 | LIVE ", IN | Animal Planet HD
+http://topiptv.net:5890/abcd/123456/68732
+#EXTINF: -1 tvg-name="IN | Big Magic" group-title="INDIA 2 | LIVE ", IN | Big Magic
+http://topiptv.net:5890/abcd/123456/68733
+#EXTINF: -1 tvg-name="IN | Desi Plus HD" group-title="INDIA 2 | LIVE ", IN | Desi Plus HD
+http://topiptv.net:5890/abcd/123456/68734
+#EXTINF: -1 tvg-name="IN | Discovery Jeet" group-title="INDIA 2 | LIVE ", IN | Discovery Jeet
+http://topiptv.net:5890/abcd/123456/68735
+#EXTINF: -1 tvg-name="IN | Discovery Kids" group-title="INDIA 2 | LIVE ", IN | Discovery Kids
+http://topiptv.net:5890/abcd/123456/68736
+#EXTINF: -1 tvg-name="IN | Discovery Science" group-title="INDIA 2 | LIVE ", IN | Discovery Science
+http://topiptv.net:5890/abcd/123456/68737
+#EXTINF: -1 tvg-name="IN | Discovery Turbo" group-title="INDIA 2 | LIVE ", IN | Discovery Turbo
+http://topiptv.net:5890/abcd/123456/68738
+#EXTINF: -1 tvg-name="IN | Discovery World HD" group-title="INDIA 2 | LIVE ", IN | Discovery World HD
+http://topiptv.net:5890/abcd/123456/68739
+#EXTINF: -1 tvg-name="IN | DSport" group-title="INDIA 2 | LIVE ", IN | DSport
+http://topiptv.net:5890/abcd/123456/68740
+#EXTINF: -1 tvg-name="IN | E24" group-title="INDIA 2 | LIVE ", IN | E24
+http://topiptv.net:5890/abcd/123456/68741
+#EXTINF: -1 tvg-name="IN | Enterr 10" group-title="INDIA 2 | LIVE ", IN | Enterr 10
+http://topiptv.net:5890/abcd/123456/68742
+#EXTINF: -1 tvg-name="IN | Masti TV" group-title="INDIA 2 | LIVE ", IN | Masti TV
+http://topiptv.net:5890/abcd/123456/68743
+#EXTINF: -1 tvg-name="IN | Rishtey Cineplex" group-title="INDIA 2 | LIVE ", IN | Rishtey Cineplex
+http://topiptv.net:5890/abcd/123456/68744
+#EXTINF: -1 tvg-name="IN | Sony Le PLEX HD" group-title="INDIA 2 | LIVE ", IN | Sony Le PLEX HD
+http://topiptv.net:5890/abcd/123456/68745
+#EXTINF: -1 tvg-name="IN | Sony MAX 2" group-title="INDIA 2 | LIVE ", IN | Sony MAX 2
+http://topiptv.net:5890/abcd/123456/68746
+#EXTINF: -1 tvg-name="IN | Sony MAX" group-title="INDIA 2 | LIVE ", IN | Sony MAX
+http://topiptv.net:5890/abcd/123456/68747
+#EXTINF: -1 tvg-name="IN | Sony SAB" group-title="INDIA 2 | LIVE ", IN | Sony SAB
+http://topiptv.net:5890/abcd/123456/68748
+#EXTINF: -1 tvg-name="IN | Sony Ten 1 FHD" group-title="INDIA 2 | LIVE ", IN | Sony Ten 1 FHD
+http://topiptv.net:5890/abcd/123456/68749
+#EXTINF: -1 tvg-name="IN | Sony TV" group-title="INDIA 2 | LIVE ", IN | Sony TV
+http://topiptv.net:5890/abcd/123456/68750
+#EXTINF: -1 tvg-name="IN | Sony WAH" group-title="INDIA 2 | LIVE ", IN | Sony WAH
+http://topiptv.net:5890/abcd/123456/68751
+#EXTINF: -1 tvg-name="IN | Star Movies" group-title="INDIA 2 | LIVE ", IN | Star Movies
+http://topiptv.net:5890/abcd/123456/68752
+#EXTINF: -1 tvg-name="IN | Star Utsav" group-title="INDIA 2 | LIVE ", IN | Star Utsav
+http://topiptv.net:5890/abcd/123456/68753
+#EXTINF: -1 tvg-name="IN | Sony YAY" group-title="INDIA 2 | LIVE ", IN | Sony YAY
+http://topiptv.net:5890/abcd/123456/68754
+#EXTINF: -1 tvg-name="IN | Steel Bird Music HD" group-title="INDIA 2 | LIVE ", IN | Steel Bird Music HD
+http://topiptv.net:5890/abcd/123456/68755
+#EXTINF: -1 tvg-name="IN | Travel XP HD" group-title="INDIA 2 | LIVE ", IN | Travel XP HD
+http://topiptv.net:5890/abcd/123456/68756
+#EXTINF: -1 tvg-name="IN | WOW Cinema" group-title="INDIA 2 | LIVE ", IN | WOW Cinema
+http://topiptv.net:5890/abcd/123456/68757
+#EXTINF: -1 tvg-name="IN | WOW Kidz" group-title="INDIA 2 | LIVE ", IN | WOW Kidz
+http://topiptv.net:5890/abcd/123456/68758
+#EXTINF: -1 tvg-name="IN | Zing" group-title="INDIA 2 | LIVE ", IN | Zing
+http://topiptv.net:5890/abcd/123456/68759
+#EXTINF: -1 tvg-name="IN | & Flix HD" group-title="INDIA 2 | LIVE ", IN | & Flix HD
+http://topiptv.net:5890/abcd/123456/68760
 #EXTINF:-1,##### |HINDI| GENERAL #####
 http://pn.tvott.info:80/wade/wade/83719
 #EXTINF:-1,|HINDI| CORONA VIRUS INFO
@@ -401,3 +1001,115 @@ http://pn.tvott.info:80/wade/wade/83521
 http://pn.tvott.info:80/wade/wade/83520
 #EXTINF:-1,|HINDI| ZEE KALINGA
 http://pn.tvott.info:80/wade/wade/83519
+#EXTINF:0,ZEE SARTHAK TV
+http://cv.khushitv.xyz/channels.php?c=sarthaktv&e=.m3u8
+#EXTINF:0,ZEE KALINGA TV NEWS
+http://cv.khushitv.xyz/channels.php?c=kalinga&e=.m3u8
+#EXTINF:0,&TV HD USA
+http://cv.khushitv.xyz/channels.php?c=andtvhdusa&e=.m3u8
+#EXTINF:0,&TV SD
+http://cv.khushitv.xyz/channels.php?c=andtvsd&e=.m3u8
+#EXTINF:0,& PICTURES SD
+http://cv.khushitv.xyz/channels.php?c=andpicssd&e=.m3u8
+#EXTINF:0,& PICTURES HD
+http://cv.khushitv.xyz/channels.php?c=andpicshd&e=.m3u8
+#EXTINF:0,AND FLIX SD
+http://cv.khushitv.xyz/channels.php?c=andflix&e=.m3u8
+#EXTINF:0,AND FLIX HD
+http://cv.khushitv.xyz/channels.php?c=andflixhd&e=.m3u8
+#EXTINF:0,ZEE TV HD
+http://cv.khushitv.xyz/channels.php?c=zeetvhd&e=.m3u8
+#EXTINF:0,ZEE TV ME
+http://cv.khushitv.xyz/channels.php?c=ztvme/tracks-v1a1/index.m3u8
+#EXTINF:0,ZEE TV USA SD
+http://cv.khushitv.xyz/channels.php?c=ztvsdusa&e=.m3u8
+#EXTINF:0,ZEE TV USA HD 
+http://cv.khushitv.xyz/channels.php?c=ztvhdusa&e=.m3u8
+#EXTINF:0,ZEE TV ASIA
+http://cv.khushitv.xyz/channels.php?c=apacsea&e=.m3u8
+#EXTINF:0,ZEE TV CANADA
+http://cv.khushitv.xyz/channels.php?c=canadahd&e=.m3u8
+#EXTINF:0,BIG MAGIC
+http://cv.khushitv.xyz/channels.php?c=bigmagic&e=.m3u8
+#EXTINF:0,BIG GANGA
+http://cv.khushitv.xyz/channels.php?c=bigganga&e=.m3u8
+#EXTINF:0,ZEE LIVING
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/index.m3u8
+#EXTINF:0,ETC PUNJABI
+http://cv.khushitv.xyz/channels.php?c=etcpnjbiusa&e=.m3u8
+#EXTINF:0,ZEE ANMOL
+http://cv.khushitv.xyz/channels.php?c=zeeanmol&e=.m3u8
+#EXTINF:0,ZEE MARATHI USA
+http://cv.khushitv.xyz/channels.php?c=marathiusa&e=.m3u8
+#EXTINF:0,ZEE KERALAM HD
+http://cv.khushitv.xyz/channels.php?c=livingfoodzhd&e=.m3u8
+#EXTINF:0,ZEE MUNDO HD
+http://cv.khushitv.xyz/channels.php?c=mundohd&e=.m3u8
+#EXTINF:0,ZEE MAGIC
+http://cv.khushitv.xyz/channels.php?c=magic&e=.m3u8
+#EXTINF:0,ZEE RUSSIA
+http://cv.khushitv.xyz/channels.php?c=russia&e=.m3u8
+#EXTINF:0,ZEE WORLD
+http://cv.khushitv.xyz/channels.php?c=world&e=.m3u8
+#EXTINF:0,ZING
+http://cv.khushitv.xyz/channels.php?c=zing&e=.m3u8
+#EXTINF:0,ZEE RAJHASTHAN
+http://cv.khushitv.xyz/channels.php?c=zinguk&e=.m3u8
+#EXTINF:0,ZEE PUNJABI
+http://cv.khushitv.xyz/channels.php?c=punjabi&e=.m3u8
+#EXTINF:0,ZEE MP CG
+http://cv.khushitv.xyz/channels.php?c=newsmpcg&e=.m3u8
+#EXTINF:0,ZEE KALAK
+http://cv.khushitv.xyz/channels.php?c=kalak&e=.m3u8
+#EXTINF:0,ZEE BIHAR
+http://cv.khushitv.xyz/channels.php?c=biharjharkh&e=.m3u8
+#EXTINF:0,WION
+http://cv.khushitv.xyz/channels.php?c=wion&e=.m3u8
+#EXTINF:0,ZEE ANMOL
+http://cv.khushitv.xyz/channels.php?c=zeeanmol&e=.m3u8
+#EXTINF:0,ZEE VAJWA
+http://cv.khushitv.xyz/channels.php?c=zeevajwa&e=.m3u8
+#EXTINF:0,ZEE ZEST SD
+http://cv.khushitv.xyz/channels.php?c=zzestsd&e=.m3u8
+#EXTINF:0,ZEE ZEST HD
+http://cv.khushitv.xyz/channels.php?c=zzesthd&e=.m3u8
+#EXTINF:0,ZEE  CINEMA ME
+http://cv.khushitv.xyz/channels.php?c=zeecinemame&e=.m3u8
+#EXTINF:0,ZEE CINEMA HD
+http://cv.khushitv.xyz/channels.php?c=zcinemahd&e=.m3u8
+#EXTINF:0,ZEE CINEMA USA
+http://cv.khushitv.xyz/channels.php?c=cinemausa&e=.m3u8
+#EXTINF:0,ZEE CINEMA UK
+http://cv.khushitv.xyz/channels.php?c=cinemauk&e=.m3u8
+#EXTINF:0,ZEE ANMOL CINEMA
+http://cv.khushitv.xyz/channels.php?c=zanmolcnm&e=.m3u8
+#EXTINF:0,ZEE CLASSIC
+http://cv.khushitv.xyz/channels.php?c=classic&e=.m3u8
+#EXTINF:0,ZEE ACTION
+http://cv.khushitv.xyz/channels.php?c=action&e=.m3u8
+#EXTINF:0,ZEE CIMEMALU SD
+http://cv.khushitv.xyz/channels.php?c=zcinemalusd&e=.m3u8
+#EXTINF:0,ZEE BANGLA CINEMA
+http://cv.khushitv.xyz/channels.php?c=zbanglacnm&e=.m3u8
+#EXTINF:0,ZEE TALKIES SD
+http://cv.khushitv.xyz/channels.php?c=zeetalkies&e=.m3u8
+#EXTINF:0,ZEE TALKIES HD
+http://cv.khushitv.xyz/channels.php?c=ztalkieshd&e=.m3u8
+#EXTINF:0,ZEE CAFE SD
+http://cv.khushitv.xyz/channels.php?c=zeecafesd&e=.m3u8
+#EXTINF:0,ZEE CAFE HD
+http://cv.khushitv.xyz/channels.php?c=zeecafehd&e=.m3u8
+#EXTINF:0,AND PRIVE HD
+http://cv.khushitv.xyz/channels.php?c=andprivehd/tracks-v4a1&e=.m3u8
+#EXTINF:0,ZEE SMILE USA
+http://cv.khushitv.xyz/channels.php?c=smileusa&e=.m3u8
+#EXTINF:0,ZEE5 LOCAL VOCAL MUSIC
+http://cv.khushitv.xyz/channels.php?c=zee5_localvocal&e=.m3u8
+#EXTINF:0,ZEE5 ORIGNALS
+http://cv.khushitv.xyz/channels.php?c=zee5_originals&e=.m3u8
+#EXTINF:0,ZEE5 ROMANCE
+http://cv.khushitv.xyz/channels.php?c=zee5_romance&e=.m3u8
+#EXTINF:0,NONSTOP EDM
+http://cv.khushitv.xyz/channels.php?c=non_stop_edm&e=.m3u8
+#EXTINF:0,ZEE5 PANJABI BEATS
+http://cv.khushitv.xyz/channels.php?c=zee5_pabeats&e=.m3u8
